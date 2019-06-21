@@ -6,6 +6,9 @@
 * [ItemCommand.aspx.vb](./CS/WebSite/ItemCommand.aspx.vb) (VB: [ItemCommand.aspx.vb](./VB/WebSite/ItemCommand.aspx.vb))
 <!-- default file list end -->
 # Dispatch item command in the ASPxDataView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e132/)**
+<!-- run online end -->
 
 
 <p>This sample shows how you can use the <strong>ItemCommand</strong> event to distinguish between cloned template controls residing within different ASPxDataView records.</p>
