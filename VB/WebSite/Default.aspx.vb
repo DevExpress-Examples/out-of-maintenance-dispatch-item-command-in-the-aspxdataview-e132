@@ -6,7 +6,7 @@ Imports System.Web
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports System.ComponentModel
-Imports DevExpress.Web.ASPxDataView
+Imports DevExpress.Web
 Imports System.Text
 
 
